@@ -1,0 +1,60 @@
+
+/*Header*/
+.header {
+    
+}
+
+.header .container {
+    width: 100%;
+    background-color: darkgray;
+    border-bottom: solid 5px darkgrey;
+}
+
+.header h1 {
+    color: white;
+    text-align: center;
+    margin-top: .2em;
+    margin-bottom: .2em;
+}
+
+/*Main*/
+.main {
+    margin: 5em;
+}
+
+/*Button*/
+#container1 {
+    
+}
+
+.wrapper {
+    text-align: center;
+}
+
+button {
+    border-radius: 5px;
+    background-color: dimgrey;
+    color: white;
+    font-family: monospace, serif;
+}
+
+/*Color Display*/
+#container2 {
+    margin-top: 3em;
+    height: 30em;
+    position: relative;
+}
+
+.displayColor {
+    background-color: aqua;
+    height: 30em;
+    width: 30em;
+    margin-right: auto;
+    margin-left: auto;
+    border: solid 5px darkgray;
+    border-radius: 3px;
+}
+
+#screen {
+    
+}
